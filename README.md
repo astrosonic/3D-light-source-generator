@@ -5,3 +5,8 @@
 2. Value to light up the image(0-255){Suggested 10-50}
 3. Axis (0 for horizontal movement 1 for vertical)
 4. Angle (0-180 degrees)
+
+### Update log
+#### v0.2
+1. Using mask for black color as lighting black objects created gray patches
+Effect : Reduced gray patches on image
