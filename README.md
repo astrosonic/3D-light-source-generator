@@ -9,4 +9,4 @@
 ### Update log
 #### v0.2
 1. Using mask for black color as lighting black objects created gray patches
-Effect : Reduced gray patches on image
+##### Effect : Reduced gray patches on image
